@@ -75,7 +75,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Planning and Preparation',
-            image: './images/Naredba.PNG',
+            image: 'https://chancecontra.github.io/Drvar/images/Naredba.PNG',
             description: 'Planning for the operation began in earnest. Field Marshal von Weichs signed the order on 6 May, and balancing synchronization of the operation with operational security, General Lothar Rendulic issued the Second Panzer Army order for Operation RÖSSELSPRUNG two weeks later, on the 21st of May, allowing only three full days for subordinates to conduct battle procedure. Kurt Rybka, the 27-year-old SS Hauptsturmführer was in command of 500 SS Fallschirmjäger Battalion. Rybka received an outline of the operation on 20 May and more detailed orders the following day. They stated: <B> Drvar is most important logistics center for the Bandits. Probably following headquartes were to be found there: a) Tito’s HQ - most likely to be in the Old Market, b) English military mission in village Prnjavor, c) American military mission in village Trninic d) Russian military mission, 300 meters east from the crossroads. </B> The suspected location of Tito’s headquarters, was given the codename ‘Citadel’ and the important crossroads in town was entitled the ‘Western Cross’.',
             location: {
                 center: [16.37420, 44.37012],
