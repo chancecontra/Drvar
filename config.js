@@ -112,7 +112,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Planning and Preparation - Bombardment',
-            image: './images/Stuka.PNG',
+            image: 'https://chancecontra.github.io/Drvar/images/Stuka.PNG',
             description: ' A heavy bombardment of Partisan positions in and around Drvar by Fliegerführer Kroatien (Air Command Croatia) aircraft was to precede a parachute and glider assault by 500 SS Fallschirmjäger Battalion whose task it was to destroy Tito and his headquarters. This bombardment was to begin at 0635 hours and consisted of five squadrons of Ju 87 Stuka dive-bombers, older He 46 medium bombers, and Italian made Ca 314 and Cr 42 medium-bombers. <B>Five bombing areas were designated in Drvar itself (A,B,C,D,E).</B>',
             location: {
                 center: [16.38203, 44.37438],
@@ -187,7 +187,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Planning and Preparation - Gliders',
-            image: './images/Glider.png',
+            image: 'https://chancecontra.github.io/Drvar/images/Glider.PNG',
             description: 'Following bombing of Drvar, alongside parachute assault, a glider assault by 500 SS Fallschirmjäger Battalion was to take place. 15 Glider landing areas were identified using aerial reconnaisance in previous days. Remaining members of the rifle companies and the heavy weapons company, were split into six assault groups for specific missions. ',
             location: {
                 center: [16.36430, 44.37297],
@@ -480,7 +480,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Planning and Preparation - Partisan Disposition',
-            image: './images/Drvar.png',
+            image: 'https://chancecontra.github.io/Drvar/images/Drvar.PNG',
             description: 'German intelligence claimed about 12,000 Partisans were active in the area of operations.Immediately surrounding Drvar were the First (Nikola Tesla) and Six Proletarian Divisions of the First Proletarian Corps, with the Corps HQ based six kilometres to the east in Mokronoge. Of immediate concern was the Third Lika Brigade   of the First Division stationed five kilometers south of Drvar in Kamenica, whose four battalions of were the most potent reaction force. Within Drvar itself there was a mixed bag of military liaison missions, support and escort troops and both the Supreme Headquarters of the NOVJ and the Central Committee of the Yugoslav Communist Party. Concurrently to paratroopers attack, XV Corps elements, around 16,000 men would converge on Drvar from all directions, in order to linkup with 500 SS on the same day, 25 May 1944. <B>Speed, shock and surprise were key for the paratroopers of 500 SS to accomplish their mission.</B> ',
             location: {
                 center: [16.38873, 44.36481],
