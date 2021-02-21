@@ -207,6 +207,14 @@ var config = {
                     layer: 'landing-zones',
                     opacity: 1,
                 },
+                {
+                    layer: 'gliders-txt',
+                    opacity: 0,
+                },
+                {
+                    layer: 'gliders',
+                    opacity: 0,
+                },
             ],
             onChapterExit: [
                 {
@@ -458,6 +466,14 @@ var config = {
                         layer: 'german-plan',
                         opacity: 1,
                     },
+                    {
+                        layer: 'partisan',
+                        opacity: 0,
+                    },
+                    {
+                        layer: 'partisan-txt',
+                        opacity: 0,
+                    }
 
             ],
             onChapterExit: [
@@ -620,6 +636,10 @@ var config = {
                                         {
                                             layer: 'flight-path',
                                             opacity: 0,
+                                            },
+                                            {
+                                                layer: 'liberated-territories',
+                                                opacity: 0,
                                             },
                     ]
         },
